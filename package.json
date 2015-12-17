@@ -21,7 +21,7 @@
   "homepage": "https://github.com/compedit/react-youtube",
   "dependencies": {
     "lodash": "3.x",
-    "youtube-player": "^2.0.0"
+    "youtube-player": "github:quickhand/youtube-player"
   },
   "devDependencies": {
     "babel-cli": "^6.1.2",

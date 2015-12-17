@@ -5,7 +5,7 @@
 import React from 'react';
 import uniqueId from 'lodash/utility/uniqueId';
 import isEqual from 'lodash/lang/isEqual';
-import youTubePlayer from 'youtube-player';
+import { youTubePlayer } from 'youtube-player';
 
 /**
  * Create a new `YouTube` component.
